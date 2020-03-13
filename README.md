@@ -17,25 +17,24 @@
 
 m3u订阅地址:(与本项目同步更新)
 
-国内频道  http://tv.sason.xyz/gn.m3u
+国内频道  
 
-港台频道  http://tv.sason.xyz/gt.m3u
+港台频道  
 
-国内+港台合并版  http://tv.sason.xyz/all.m3u
+国内+港台合并版  
 
-EPG缩写地址  http://tv.sason.xyz/epg
+EPG缩写地址  
 
 ----------------------------------------------------------------------------------------
 
 txt订阅地址:(与本项目同步更新)
 
-国内频道  http://tv.sason.xyz/gn.txt
+国内频道  
 
-港台频道  http://tv.sason.xyz/gt.txt
+港台频道  
 
-国内+港台合并版  http://tv.sason.xyz/all.txt
+国内+港台合并版  
 
 ----------------------------------------------------------------------------------------
 
-交流/提意见请联系我 https://t.me/sasonzh
-欢迎关注TG频道 https://t.me/tvsason
+
